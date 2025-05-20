@@ -1,2 +1,4 @@
 crewai==0.22.3
 openai   # Only needed if you want LLMs (can be left as optional for basic demo)
+colorama
+tabulate

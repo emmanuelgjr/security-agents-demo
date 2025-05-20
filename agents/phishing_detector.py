@@ -1,8 +1,8 @@
-from crewai import Agent
+# Remove: from crewai import Agent
 
-class PhishingDetectorAgent(Agent):
+class PhishingDetectorAgent:
     def __init__(self):
-        super().__init__(name="Phishing Detector Agent")
+        self.name = "Phishing Detector Agent"
 
     def detect(self, email):
         phishing_keywords = ["password", "account", "compromised", "reset", "update", "payment", "click here"]

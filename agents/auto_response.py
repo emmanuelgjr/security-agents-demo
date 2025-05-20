@@ -1,8 +1,8 @@
-from crewai import Agent
+# Remove: from crewai import Agent
 
-class AutoResponseAgent(Agent):
+class AutoResponseAgent:
     def __init__(self):
-        super().__init__(name="Auto-Response Agent")
+        self.name = "Auto-Response Agent"
 
     def respond(self, enriched_result, email):
         if enriched_result["is_phishing"]:

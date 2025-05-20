@@ -1,13 +1,7 @@
-
----
-
-### `data/sample_emails.json`
-
-```json
 [
     {
         "id": 1,
-        "subject": "Reset your password",
+        "subject": "Reset your password urgently",
         "body": "Dear user, your account has been compromised. Click here to reset your password: http://malicious-link.com"
     },
     {
@@ -19,5 +13,20 @@
         "id": 3,
         "subject": "Important: Update your payment information",
         "body": "We couldn't process your last payment. Please update your details here: http://phishy-site.biz"
+    },
+    {
+        "id": 4,
+        "subject": "Seu banco precisa de você",
+        "body": "Sua conta foi bloqueada por motivos de segurança. Clique aqui para regularizar: http://golpista-br.com"
+    },
+    {
+        "id": 5,
+        "subject": "Internal Report",
+        "body": "Attached is the Q2 report. Let me know if you need edits."
+    },
+    {
+        "id": 6,
+        "subject": "ATUALIZAÇÃO NECESSÁRIA",
+        "body": "Seu e-mail está prestes a expirar. Atualize agora: http://phish-br.net"
     }
 ]
