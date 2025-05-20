@@ -16,17 +16,62 @@
     },
     {
         "id": 4,
-        "subject": "Seu banco precisa de você",
-        "body": "Sua conta foi bloqueada por motivos de segurança. Clique aqui para regularizar: http://golpista-br.com"
+        "subject": "Internal Report: Q2 Attachments",
+        "body": "Please see attached the quarterly report. Let me know if you have any questions."
     },
     {
         "id": 5,
-        "subject": "Internal Report",
-        "body": "Attached is the Q2 report. Let me know if you need edits."
+        "subject": "Seu banco precisa de você",
+        "body": "Sua conta foi bloqueada por motivos de segurança. Clique aqui para regularizar: http://golpista-br.com"
     },
     {
         "id": 6,
         "subject": "ATUALIZAÇÃO NECESSÁRIA",
         "body": "Seu e-mail está prestes a expirar. Atualize agora: http://phish-br.net"
+    },
+    {
+        "id": 7,
+        "subject": "Vacation pictures",
+        "body": "Check out my photos from Rio de Janeiro! (no links or attachments)"
+    },
+    {
+        "id": 8,
+        "subject": "Recuperação de Conta",
+        "body": "Detectamos atividade suspeita. Redefina sua senha imediatamente: http://link-falso.com"
+    },
+    {
+        "id": 9,
+        "subject": "RH: Atualização de dados",
+        "body": "Por favor, atualize seus dados cadastrais usando o link seguro do portal interno."
+    },
+    {
+        "id": 10,
+        "subject": "Company Survey",
+        "body": "We are running a survey. Your opinion is important! Access the official platform using your company credentials."
+    },
+    {
+        "id": 11,
+        "subject": "Pagamento Recusado",
+        "body": "Não conseguimos processar seu último pagamento. Atualize suas informações: http://fraude-boleto.com"
+    },
+    {
+        "id": 12,
+        "subject": "Parabéns! Você ganhou um prêmio",
+        "body": "Clique aqui para resgatar: http://premio-falso.com"
+    },
+    {
+        "id": 13,
+        "subject": "Team Offsite",
+        "body": "Team offsite is confirmed for next Friday. Details will be shared soon."
+    },
+    {
+        "id": 14,
+        "subject": "COVID-19 Updates",
+        "body": "Acesse o site oficial do Ministério da Saúde para mais informações."
+    },
+    {
+        "id": 15,
+        "subject": "Security Alert",
+        "body": "Multiple login attempts detected. If this was not you, please contact IT support immediately."
     }
 ]
