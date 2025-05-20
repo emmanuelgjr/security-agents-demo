@@ -1,0 +1,23 @@
+
+---
+
+### `data/sample_emails.json`
+
+```json
+[
+    {
+        "id": 1,
+        "subject": "Reset your password",
+        "body": "Dear user, your account has been compromised. Click here to reset your password: http://malicious-link.com"
+    },
+    {
+        "id": 2,
+        "subject": "Lunch meeting",
+        "body": "Let's meet for lunch at noon tomorrow. Cheers, Sarah"
+    },
+    {
+        "id": 3,
+        "subject": "Important: Update your payment information",
+        "body": "We couldn't process your last payment. Please update your details here: http://phishy-site.biz"
+    }
+]
